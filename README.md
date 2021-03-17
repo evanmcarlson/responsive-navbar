@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates a responsive navigation bar using React.js, styled-components, and react-router. The design is inspired by apple.com.
 
 ## Available Scripts
 
@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### Resources
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
